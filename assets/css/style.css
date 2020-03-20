@@ -1,0 +1,27 @@
+.container-1 {
+    margin: 0 auto;
+    border: 5px solid green;
+    text-align: center;
+    width: 75%;
+    color: green;
+}
+
+.flex-box-container-1 {
+    display: flex;
+    border: 1px solid green;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 5%;
+}
+
+.flex-box-container-1 img {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    padding: 2%;
+}
+
+body {
+    background: url('../images/greek-vase.png');
+}
